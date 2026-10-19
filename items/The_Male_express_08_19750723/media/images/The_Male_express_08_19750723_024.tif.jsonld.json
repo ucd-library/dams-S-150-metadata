@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "024",
+  "schema:alternativeHeadline": "Scan page 24 of Male Express, The, no. 8. Profile portrait of Judy Garland looking toward the left. Judy Garland looks forward in a short-haired publicity portrait. Musical staff carries the opening words of Yankee Doodle. Small wooden outhouse with musical notes around it.",
+  "ebucore:filename": "The_Male_express_08_19750723_024.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "046",
+  "schema:alternativeHeadline": "Scan page 46 of Magpie, no. 1, vol. 21. Cartoon weary dog in a tall battered hat, leaning forward. Cartoon duck's head with a long bill and tuft of hair. Cartoon cat's head with pointed ears, whiskers and a grin.",
+  "ebucore:filename": "Magpie_01_021_19681011_046.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

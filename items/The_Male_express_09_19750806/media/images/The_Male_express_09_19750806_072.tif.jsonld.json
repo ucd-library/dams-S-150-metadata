@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "072",
+  "schema:alternativeHeadline": "Scan page 72 of Male Express, The, no. 9. Three pageant performers pose onstage in gowns, including a central seated performer wearing a crown. A seated performer in a dark gown and crown poses with a standing performer wearing a white cape and broad hat. Contestant Salone poses in a floor-length ornate gown with a wide layered skirt. Contestant Kelly performs in a large feathered headdress and costume. Contestant LaRey holds a microphone in a sparkling sleeveless gown, wearing contestant number three. Contestant Andrea Nicole spreads a feathered skirt or cape while wearing an ornate midriff-baring costume.",
+  "ebucore:filename": "The_Male_express_09_19750806_072.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

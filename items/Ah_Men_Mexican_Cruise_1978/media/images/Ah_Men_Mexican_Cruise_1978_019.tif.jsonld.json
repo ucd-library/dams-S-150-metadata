@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "019",
+  "schema:alternativeHeadline": "Scan page 19 of Ah Men Mexican Cruise. Models show a sheer patterned short robe with black pants, a dark-and-gold printed belted robe, a small-check short pajama set, and rust-red satin loungewear with blue-green patterned sleeves.",
+  "ebucore:filename": "Ah_Men_Mexican_Cruise_1978_019.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

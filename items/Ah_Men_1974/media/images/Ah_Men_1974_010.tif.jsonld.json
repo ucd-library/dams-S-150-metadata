@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "010",
+  "schema:alternativeHeadline": "Scan page 10 of Ah Men. Four men model white square-cut trunks, white briefs with contrasting piping, black-and-white geometric briefs, and multicolored patterned briefs. Men model geometric-print loungewear in green, brown, and blue: a long robe, long-sleeved open jackets, swim briefs, and flared trousers. A large foreground portrait shows the green robe and matching briefs.",
+  "ebucore:filename": "Ah_Men_1974_010.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

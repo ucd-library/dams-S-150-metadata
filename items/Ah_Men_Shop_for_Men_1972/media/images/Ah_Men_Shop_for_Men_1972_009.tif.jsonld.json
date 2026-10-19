@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "009",
+  "schema:alternativeHeadline": "Scan page 9 of Ah Men Shop for Men. Visible left photo strip shows men in a white mesh shirt with briefs, contrast-trim tank top, and rear/front views of pale sheer boxer-cut underwear. Exposed lower panels show a minimal fabric pouch and round padded swim cup held in a hand.",
+  "ebucore:filename": "Ah_Men_Shop_for_Men_1972_009.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

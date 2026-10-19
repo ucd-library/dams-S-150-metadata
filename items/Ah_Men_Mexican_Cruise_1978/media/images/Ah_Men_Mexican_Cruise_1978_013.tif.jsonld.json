@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "013",
+  "schema:alternativeHeadline": "Scan page 13 of Ah Men Mexican Cruise. Man and kneeling woman wear matching red bikini swimsuits beside a man in a close-fitting gray sleeveless one-piece swimsuit. Close-ups show shiny silver square-cut trunks and multicolored string briefs with circular side buckles.",
+  "ebucore:filename": "Ah_Men_Mexican_Cruise_1978_013.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

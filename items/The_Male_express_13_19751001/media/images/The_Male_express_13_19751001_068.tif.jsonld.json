@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "068",
+  "schema:alternativeHeadline": "Scan page 68 of Male Express, The, no. 13. Portrait of singer Baby Jane Dexter. Bill Barnes and Marvin Laird pictured together. Portrait of Rip Taylor. Portrait of a singer in the Keystone Quartet announcement.",
+  "ebucore:filename": "The_Male_express_13_19751001_068.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

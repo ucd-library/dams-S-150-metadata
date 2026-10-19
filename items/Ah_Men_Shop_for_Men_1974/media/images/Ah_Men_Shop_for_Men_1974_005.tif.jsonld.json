@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "005",
+  "schema:alternativeHeadline": "Scan page 5 of Ah Men Shop for Men. Shirt collage shows shaded-color fitted tees, a white western shirt with colorful flower embroidery and dark piping, pale safari shirts, a dark sweater, and a light jacket; a small scene shows models by a vintage car.",
+  "ebucore:filename": "Ah_Men_Shop_for_Men_1974_005.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "011",
+  "schema:alternativeHeadline": "Scan page 11 of Ah Men. Swimwear collage against rocky surf: a woman in a patterned bikini stands beside men in red-and-white, blue, gold, and tiger-print briefs. Below, men wear an open red patterned robe, white shorts, dark athletic shorts with white edging, and white trunks with large dark dots.",
+  "ebucore:filename": "Ah_Men_1974_011.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

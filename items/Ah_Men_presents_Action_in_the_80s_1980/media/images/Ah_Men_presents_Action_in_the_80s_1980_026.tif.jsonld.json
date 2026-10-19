@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "026",
+  "schema:alternativeHeadline": "Scan page 26 of Ah Men presents Action in the 80s. Men in color-block tank and brief swimsuits pose on a small boat, with a central yellow, red, and dark-blue outfit. Two men model a white fitted sports T-shirt and white or green running shorts with dark vertical stripes.",
+  "ebucore:filename": "Ah_Men_presents_Action_in_the_80s_1980_026.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,70 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:name": "Ah Men Catalog",
+  "schema:identifier": [
+    "S-150",
+    "ark:/87293/d3zw1936f"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/Ah_Men_Catalog_1979.pdf"
+  },
+  "schema:image": {
+    "@id": "@base:/media/images/Ah_Men_Catalog_1979_001.tif"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1041139"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/921600"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1202158"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/797511"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1741297"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/864680"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919982"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1024387"
+    }
+  ],
+  "schema:keywords": [
+    "Nude art",
+    "LGBTQ+ fashion",
+    "advertising",
+    "gay men in advertising",
+    "clothing and dress",
+    "commercial catalogs",
+    "models (persons)"
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1979"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+  }
+}

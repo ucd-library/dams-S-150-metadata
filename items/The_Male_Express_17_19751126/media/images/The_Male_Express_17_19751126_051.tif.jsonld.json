@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "051",
+  "schema:alternativeHeadline": "Scan page 51 of Male Express, The, no. 17. A shirtless man in a short wrap or towel leans on one arm. A street diagram marks the bath house with a star on Fountain between Western and Normandie. Santa Monica and Sunset form the other cross routes, and Vermont is also labeled.",
+  "ebucore:filename": "The_Male_Express_17_19751126_051.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

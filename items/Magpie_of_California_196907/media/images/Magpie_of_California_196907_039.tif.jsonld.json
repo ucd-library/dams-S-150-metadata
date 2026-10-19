@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "039",
+  "schema:alternativeHeadline": "Scan page 39 of Magpie of California. Dramatic close photograph of a stone sculpted face tilted sideways, with one wide eye and open mouth, against a dark interior background.",
+  "ebucore:filename": "Magpie_of_California_196907_039.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

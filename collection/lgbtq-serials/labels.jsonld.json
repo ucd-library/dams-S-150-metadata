@@ -1,0 +1,116 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/797511",
+    "http://schema.org/name": "Advertising"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204928",
+    "http://schema.org/name": "California"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/864680",
+    "http://schema.org/name": "Clothing and dress"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/867976",
+    "http://schema.org/name": "College students"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/868054",
+    "http://schema.org/name": "College students--Societies and clubs"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1432034",
+    "http://schema.org/name": "Community organization"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/897357",
+    "http://schema.org/name": "Drag balls"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/2024751",
+    "http://schema.org/name": "Drag performance"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1740528",
+    "http://schema.org/name": "Drag shows"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/921600",
+    "http://schema.org/name": "Fashion"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/939071",
+    "http://schema.org/name": "Gay clubs"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1741297",
+    "http://schema.org/name": "Gays in advertising"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/945035",
+    "http://schema.org/name": "Gossip"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/996578",
+    "http://schema.org/name": "Lesbians--Social life and customs"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1007815",
+    "http://schema.org/name": "Manners and customs"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1024387",
+    "http://schema.org/name": "Models (Persons)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1919943",
+    "http://schema.org/name": "Newsletters"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1745100",
+    "http://schema.org/name": "Nightlife"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1041139",
+    "http://schema.org/name": "Nude in art"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1411641",
+    "http://schema.org/name": "Periodicals"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1201065",
+    "http://schema.org/name": "Publications"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1202158",
+    "http://schema.org/name": "Sexual minorities"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1741472",
+    "http://schema.org/name": "Sexual minority college students"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1910176",
+    "http://schema.org/name": "Sexual minority community"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/2010860",
+    "http://schema.org/name": "Sexual minority culture"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1919982",
+    "http://schema.org/name": "Trade catalogs"
+  }
+]

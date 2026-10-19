@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "029",
+  "schema:alternativeHeadline": "Scan page 29 of Ah Men Catalog. Vacation collage shows men in brief swimwear on a tropical beach and ship deck, with a group of casually dressed travelers posing by the sea. Man models a pale matching safari-style shirt and cropped drawstring trousers beside a seated woman in an open dark jacket.",
+  "ebucore:filename": "Ah_Men_Catalog_1979_029.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

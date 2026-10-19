@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "008",
+  "schema:alternativeHeadline": "Scan page 8 of Ah Men Summer Cruise. Four men on a sailboat model fitted swim shorts and briefs, with contrasting waistbands and side panels.",
+  "ebucore:filename": "Ah_Men_Summer_Cruise_1965_008.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

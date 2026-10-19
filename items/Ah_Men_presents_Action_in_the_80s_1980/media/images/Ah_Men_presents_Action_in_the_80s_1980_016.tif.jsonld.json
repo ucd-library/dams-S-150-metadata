@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "016",
+  "schema:alternativeHeadline": "Scan page 16 of Ah Men presents Action in the 80s. Men on a dock wear a pale-blue open long-sleeved shirt, a long blue-and-white robe, and dark shorts with white curved side panels. Three tilted close-ups show dark bikini briefs with red V-front panel, bright multicolored patterned briefs, and white briefs printed with large dark flowers.",
+  "ebucore:filename": "Ah_Men_presents_Action_in_the_80s_1980_016.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

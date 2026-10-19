@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "015",
+  "schema:alternativeHeadline": "Scan page 15 of Ah Men Catalog. Three men model red, white, and yellow short swim trunks in an inset photograph. Man in dark brief swimwear is visible beside the mailing insert. Lower exposed strip shows orange shorts, white string swimwear, and white briefs. Two-step line diagram shows the order sheet folded along dashed lines into a mailing packet, with arrows indicating the fold direction.",
+  "ebucore:filename": "Ah_Men_Catalog_1979_015.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

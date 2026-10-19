@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "061",
+  "schema:alternativeHeadline": "Scan page 61 of Male Express, The, no. 11. National Cotillion winners pose in formal gowns with bouquets; names appear in the caption. Ila Rey, winner of the special judge’s talent award, raises both arms beneath a National Cotillion sign. Honey Carolina seated in a large white chair.",
+  "ebucore:filename": "The_Male_express_11_19750903_061.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "019",
+  "schema:alternativeHeadline": "Scan page 19 of Male Express, The, no. 7. Male gender symbol with an arrow pointing upward to the right. Musical staff carries the opening words of Yankee Doodle. Small wooden outhouse with musical notes around it. Small drawing of an upright drinking glass beside Open Forum.",
+  "ebucore:filename": "The_Male_express_07_19750709_019.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

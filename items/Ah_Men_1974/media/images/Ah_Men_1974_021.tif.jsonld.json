@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "021",
+  "schema:alternativeHeadline": "Scan page 21 of Ah Men. Men model plain blue briefs, white briefs with dark piping, blue-and-green floral briefs, red briefs with black trim, and multicolored paisley briefs; the largest foreground model shows the paisley front panel.",
+  "ebucore:filename": "Ah_Men_1974_021.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

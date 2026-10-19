@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "008",
+  "schema:alternativeHeadline": "Scan page 8 of Ah Men presents Action in the 80s. Three men by a marina wear red or yellow tropical-print shirts with pale trousers. Insets show red and dark bikini briefs with wide gold-colored side bands.",
+  "ebucore:filename": "Ah_Men_presents_Action_in_the_80s_1980_008.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "026",
+  "schema:alternativeHeadline": "Scan page 26 of Ah Men. Product collage shows jars and bottles of grooming products and colognes, boxed fragrances, portraits of male models, and a shirtless man stretching a dark exercise strap. Book covers and inset photographs feature posed nude male bodies, a reclining nude man, a bare-chested man outdoors, and black-and-white male portraits.",
+  "ebucore:filename": "Ah_Men_1974_026.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

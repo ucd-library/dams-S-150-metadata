@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "014",
+  "schema:alternativeHeadline": "Scan page 14 of Ah Men Stepping Out. Three men at a pool model full-length and short checked robes with matching wide-legged trousers. A man models white briefs; beside him a woman in a metallic bikini and a man in blue briefs display side-clasp swimwear.",
+  "ebucore:filename": "Ah_Men_Stepping_Out_1977_014.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

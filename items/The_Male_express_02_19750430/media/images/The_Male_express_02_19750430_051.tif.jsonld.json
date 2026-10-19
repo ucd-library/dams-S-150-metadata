@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "051",
+  "schema:alternativeHeadline": "Scan page 51 of Male Express, The, no. 2. Side-view cartoon steam locomotive travels along tracks, its side labeled Male Express.",
+  "ebucore:filename": "The_Male_express_02_19750430_051.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

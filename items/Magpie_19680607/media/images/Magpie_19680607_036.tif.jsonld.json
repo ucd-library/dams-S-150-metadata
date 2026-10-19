@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "036",
+  "schema:alternativeHeadline": "Scan page 36 of Magpie. Cartoon of a stout moustached person in a smoking cap and fur-trimmed robe, seated in a cushioned armchair with slippered feet raised, reading an open newspaper and smoking a long-stemmed pipe. Smoke curls upward; a small framed portrait is below.",
+  "ebucore:filename": "Magpie_19680607_036.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

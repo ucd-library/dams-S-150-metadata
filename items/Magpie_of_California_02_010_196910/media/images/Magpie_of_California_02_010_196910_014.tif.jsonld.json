@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "014",
+  "schema:alternativeHeadline": "Scan page 14 of Magpie of California, no. 2, vol. 10. Drawing of a bare-chested short-haired person looking toward the viewer. Location map places Wellington Club, 1202 East Anaheim Street, Wilmington, on the south side of Anaheim Street between the Harbor Freeway and Long Beach Freeway. Printed directions say three miles from either freeway at the Anaheim Street turnoff. The San Diego Freeway crosses north of the club; San Pedro and Long Beach are marked south. North is up.",
+  "ebucore:filename": "Magpie_of_California_02_010_196910_014.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

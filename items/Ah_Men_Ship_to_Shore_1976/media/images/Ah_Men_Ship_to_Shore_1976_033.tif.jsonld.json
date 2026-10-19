@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "033",
+  "schema:alternativeHeadline": "Scan page 33 of Ah Men Ship to Shore. Product photos show a shaped white swim cup, metallic posing briefs, white pouch-front briefs, and an elastic posing strap held open. Models wear a sheer black patterned shirt and briefs, plain dark briefs, and sheer pale bikini and boxer-cut underwear; a close-up shows plain white briefs.",
+  "ebucore:filename": "Ah_Men_Ship_to_Shore_1976_033.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

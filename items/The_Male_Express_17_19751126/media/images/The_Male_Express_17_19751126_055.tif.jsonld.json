@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "055",
+  "schema:alternativeHeadline": "Scan page 55 of Male Express, The, no. 17. A drawing shows three muscular shirtless men seated or standing close together. A street diagram locates York Boulevard between Eagle Rock Boulevard, Avenue 50, and Figueroa, with Colorado Boulevard and the Ventura and Pasadena freeways for orientation. Arrows point toward Glendale and Pasadena.",
+  "ebucore:filename": "The_Male_Express_17_19751126_055.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

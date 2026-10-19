@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "021",
+  "schema:alternativeHeadline": "Scan page 21 of Ah Men Ship to Shore. Two men on a yacht wear coordinating pastel patchwork-patterned swim briefs and boxer-cut trunks. Close-up of a dark-blue beach jacket with rust-colored sleeves and collar. Man in orange contrast-trim trunks stands beside a woman in dark shorts at the yacht mast. Two men model a dark shirt with pale teardrop shapes and coordinating briefs.",
+  "ebucore:filename": "Ah_Men_Ship_to_Shore_1976_021.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "036",
+  "schema:alternativeHeadline": "Scan page 36 of Male Express, The, no. 8. Line drawing of a young man’s face with thick dark hair falling toward his forehead. Bunny stands in an open parade car, wearing a sash and raising one hand. Miss Gay San Francisco Tammy Lynn rides in a decorated parade car, with another passenger seated in front. N’ Touch muscleman poses on a street in brief shorts with a sash across his bare chest. Buzby’s decorated parade float carries several participants among balloons and a large club sign. Cable Car Girls march in short ruffled costumes along the parade route. Elmer Wilhelm of the Parade Committee stands near a large vehicle wearing glasses and a patterned shirt.",
+  "ebucore:filename": "The_Male_express_08_19750723_036.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

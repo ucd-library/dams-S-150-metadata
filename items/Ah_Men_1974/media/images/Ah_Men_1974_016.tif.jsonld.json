@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "016",
+  "schema:alternativeHeadline": "Scan page 16 of Ah Men. Men model swimwear against rocky surf: black-and-white checked trunks, red briefs with a cropped white T-shirt, blue briefs with oversized white dots, dark athletic shorts edged in white, and white shorts with dark curved trim.",
+  "ebucore:filename": "Ah_Men_1974_016.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

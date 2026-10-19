@@ -1,0 +1,6 @@
+*
+!.gitignore
+!LICENSE
+!*/
+!*.jsonld.json
+!*.md

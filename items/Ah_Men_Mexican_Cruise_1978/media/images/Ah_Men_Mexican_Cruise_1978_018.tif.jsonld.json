@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "018",
+  "schema:alternativeHeadline": "Scan page 18 of Ah Men Mexican Cruise. Man wears a yellow polka-dot nightshirt; another reclines in a striped tank with dark polka-dot trousers. Below are a black karate-style outfit, green-and-blue tracksuit, and blue patterned pajamas.",
+  "ebucore:filename": "Ah_Men_Mexican_Cruise_1978_018.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "031",
+  "schema:alternativeHeadline": "Scan page 31 of Magpie. Three costumed people with long false-looking hair or beards pose together; one wears a tall pointed hat and holds a round crystal ball. Two people lean closely over another person reclining in a chair. A smiling person in a long dark dress and broad hat stands beside a tree.",
+  "ebucore:filename": "Magpie_19680426_031.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "023",
+  "schema:alternativeHeadline": "Scan page 23 of Magpie of California, no. 2, vol. 10. Two people stand beside one another outdoors, one in a dark suit and the other in a light suit. Two people lean over an open box or machine on a table. A smiling bare-chested person reclines beside a large tortoise held near the shoulder. Two people in short briefs and hanging neck decorations pose together at an indoor party.",
+  "ebucore:filename": "Magpie_of_California_02_010_196910_023.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

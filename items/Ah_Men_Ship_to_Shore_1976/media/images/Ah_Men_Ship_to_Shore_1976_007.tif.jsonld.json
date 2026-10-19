@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "007",
+  "schema:alternativeHeadline": "Scan page 7 of Ah Men Ship to Shore. Man models a bright-green open warm-up jacket with blue collar and waistband and blue trousers with green side stripes. Insets show men in white patterned short kimonos with dark shorts and matching white velour jacket, trousers, and shorts.",
+  "ebucore:filename": "Ah_Men_Ship_to_Shore_1976_007.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

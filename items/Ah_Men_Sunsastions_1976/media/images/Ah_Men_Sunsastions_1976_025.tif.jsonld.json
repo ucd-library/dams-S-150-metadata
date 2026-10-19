@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "025",
+  "schema:alternativeHeadline": "Scan page 25 of Ah Men Sunsastions. Two men in pale draped briefs stand beside the pool. Two men model plaid briefs. A man wears yellow lace-up swim shorts. Two men wear shiny silver and gold short swim trunks.",
+  "ebucore:filename": "Ah_Men_Sunsastions_1976_025.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

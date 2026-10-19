@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "054",
+  "schema:alternativeHeadline": "Scan page 54 of Male Express, The, no. 16. A star marks the Stopover between Gower and Bronson just north of Hollywood Boulevard. The diagram also labels Vine Street, Franklin Avenue, Sunset Boulevard, and the Hollywood Freeway, with a north-pointing compass.",
+  "ebucore:filename": "The_Male_Express_16_19751112_054.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

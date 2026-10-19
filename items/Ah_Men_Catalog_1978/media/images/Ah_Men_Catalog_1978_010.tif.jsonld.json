@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "010",
+  "schema:alternativeHeadline": "Scan page 10 of Ah Men Catalog. Pool-party collage of women and men in string bikini swimsuits, briefs, and square-cut trunks in yellow, red, black, white, and metallic patterns; the large right image shows a man floating beside a silver balloon.",
+  "ebucore:filename": "Ah_Men_Catalog_1978_010.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

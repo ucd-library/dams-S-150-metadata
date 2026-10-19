@@ -1,0 +1,105 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:name": "LGBTQ Serials (placeholder title)",
+  "schema:identifier": [
+    "S-150",
+    "ark:/87293/d3c53fc01"
+  ],
+  "schema:description": "Serial publications from S-150, prepared from the supplied catalog metadata and scanned pages.",
+  "schema:image": {
+    "@id": "@base:/cover.jpg"
+  },
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1007815"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1024387"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1041139"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1201065"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1202158"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204928"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1432034"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1740528"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1741297"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1741472"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1745100"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1910176"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919943"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1919982"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/2010860"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/2024751"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/797511"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/864680"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/867976"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/868054"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/897357"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/921600"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/939071"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/945035"
+    }
+  ]
+}

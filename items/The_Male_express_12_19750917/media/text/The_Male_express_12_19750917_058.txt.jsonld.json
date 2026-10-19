@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:name": "Page 58 — text transcript and image descriptions",
+  "schema:position": "058",
+  "schema:inLanguage": "en",
+  "ebucore:filename": "The_Male_express_12_19750917_058.txt",
+  "ebucore:hasMimeType": "text/plain"
+}

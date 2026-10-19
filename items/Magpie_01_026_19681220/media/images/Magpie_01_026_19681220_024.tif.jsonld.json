@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "024",
+  "schema:alternativeHeadline": "Scan page 24 of Magpie, no. 1, vol. 26. Cartoon of a disheveled person in a patched brimmed hat, rumpled jacket, striped trousers and ragged shoes, sitting with legs spread against a horizontal rail and holding a small bottle at the lap. Musical notes float around the head. Caption: “Come alive...you’re in the Pepsi generation!”",
+  "ebucore:filename": "Magpie_01_026_19681220_024.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

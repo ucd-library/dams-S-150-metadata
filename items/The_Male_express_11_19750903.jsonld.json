@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:name": "Male Express, The, no. 11",
+  "schema:identifier": [
+    "S-150",
+    "ark:/87293/d3zs2kq46"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/The_Male_express_11_19750903.pdf"
+  },
+  "schema:image": {
+    "@id": "@base:/media/images/The_Male_express_11_19750903_001.tif"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1910176"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/2010860"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1745100"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/897357"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/2024751"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1740528"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1201065"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/945035"
+    }
+  ],
+  "schema:keywords": [
+    "LGBTQ+ communities",
+    "LGBTQ+ culture",
+    "Queer culture",
+    "LGBTQ+ night life",
+    "Drag balls",
+    "Drag community",
+    "Drag shows",
+    "Ball culture",
+    "Periodicals",
+    "Publications",
+    "Gossip"
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1975-09-03"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+  }
+}
