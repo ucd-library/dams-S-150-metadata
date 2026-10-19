@@ -23,5 +23,5 @@
     "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/"
   },
   "schema:inLanguage": "en",
-  "schema:accessibilitySummary": "Searchable tagged facsimile with document headings, page bookmarks, reviewed figure descriptions, and structured alternatives for identified tables and forms. OCR accuracy and logical reading order still require final review; accessibility compliance has not been certified."
+  "schema:accessibilitySummary": "Searchable tagged facsimile with document headings, page bookmarks, reviewed figure descriptions, and structured alternatives for identified tables and forms. OCR accuracy and logical reading order still require final review; accessibility compliance has not been certified. Recipient mailing label redacted."
 }

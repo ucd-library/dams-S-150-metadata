@@ -20,7 +20,7 @@
   ],
   "schema:description": "Serial publications from S-150, prepared from the supplied catalog metadata and scanned pages.",
   "schema:image": {
-    "@id": "@base:/cover.jpg"
+    "@id": "info:fedora/item/ark:/87293/d3959cj8z/media/images/Magpie_01_021_19681011_001.tif"
   },
   "ucdlib:hasLabel": {
     "@id": "@base:/labels"

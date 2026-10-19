@@ -1,3 +1,9 @@
+# Current recipient-label redaction update - October 19, 2026
+
+Four TIFFs, four tagged PDFs and matching text/rebuild inputs have been redacted. Current details and validation: /Users/enebeker/dams-S-150-metadata/work/recipient-redactions-20261019/HANDOFF.md. Exclude work/ and unredacted backups from syncing. Sync/import and remote derivative refresh remain manual. Earlier validation hashes below are historical for these four items.
+
+---
+
 # Winter ARK assigned - October 19, 2026
 
 Outloud (Winter 2003): **ark:/87293/d3t14v10j**. EZID mint and target update completed; the identifier is bound to `Outloud_Winter_2003`. Spring retains `ark:/87293/d3xs5jt5f`. Current local package audit: 0 errors, 0 warnings, 0 missing binaries. Report: /Users/enebeker/dams-S-150-metadata/work/outloud-split-20261019/audit-ark-20261019-130722.json

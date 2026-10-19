@@ -1,3 +1,9 @@
+# Current recipient-label redaction update - October 19, 2026
+
+Four TIFFs, four tagged PDFs and matching text/rebuild inputs have been redacted. Current details and validation: /Users/enebeker/dams-S-150-metadata/work/recipient-redactions-20261019/HANDOFF.md. Exclude work/ and unredacted backups from syncing. Sync/import and remote derivative refresh remain manual. Earlier validation hashes below are historical for these four items.
+
+---
+
 # LGBTQ Serials (placeholder title)
 
 Collection root: /Users/enebeker/dams-S-150-metadata
