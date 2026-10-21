@@ -112,5 +112,9 @@
   {
     "@id": "http://id.worldcat.org/fast/1919982",
     "http://schema.org/name": "Trade catalogs"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423814",
+    "http://schema.org/name": "Newspapers"
   }
 ]

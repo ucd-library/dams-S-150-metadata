@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "005",
+  "schema:alternativeHeadline": "Scan page 5 of This Month on the River, no. 22 (mid-September-mid-October 1984). Mine feature includes a portrait of Glenn, an exterior view of the bar and two men beside a pool. The right column contains five property photographs.",
+  "ebucore:filename": "This_month_on_the_River_22_09_005.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

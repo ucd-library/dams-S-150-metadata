@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "028",
+  "schema:alternativeHeadline": "Scan page 28 of This Month on the River, no. 40 (September 15, 1985). Resort-guide photographs show Triple R’s patio and pool and a man relaxing beside the water. Other pictures include a gym proprietor and a performer wearing a broad hat.",
+  "ebucore:filename": "This_month_on_the_River_040_19850915_028.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

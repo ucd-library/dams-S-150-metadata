@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "006",
+  "schema:alternativeHeadline": "Scan page 6 of This Month on the River, vol. 1, no. 3 (March 1983). Highlands Resort photograph shows an outdoor pool and surrounding deck. The right column contains portrait photographs in lawyer and massage-therapy advertisements.",
+  "ebucore:filename": "This_month_on_the_River_01_03_198303_006.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

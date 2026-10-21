@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:MediaObject",
+    "schema:CreativeWork"
+  ],
+  "schema:position": "025",
+  "schema:alternativeHeadline": "Scan page 25 of This Month on the River, no. 40 (September 15, 1985). Resort-guide photographs show a canoeist, a shaded outdoor sitting area, people enjoying a pool and bathers in the river. At left are a seated man and a hand holding a drinking glass in a water-purifier advertisement.",
+  "ebucore:filename": "This_month_on_the_River_040_19850915_025.tif",
+  "ebucore:hasMimeType": "image/tiff"
+}

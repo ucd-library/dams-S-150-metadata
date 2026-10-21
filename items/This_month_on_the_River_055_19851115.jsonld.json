@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:name": "This Month on the River, no. 55",
+  "schema:identifier": [
+    "S-150",
+    "ark:/87293/d31j97k1p"
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/This_month_on_the_River_055_19851115.pdf"
+  },
+  "schema:image": {
+    "@id": "@base:/media/images/This_month_on_the_River_055_19851115_001.tif"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/797511"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1411641"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1201065"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1423814"
+    }
+  ],
+  "schema:keywords": [
+    "LGBTQ+ culture",
+    "Queer culture",
+    "LGBTQ+ tourism",
+    "LGBTQ+ newspapers",
+    "Queer newspapers",
+    "Advertising",
+    "Periodicals",
+    "Publications",
+    "Newspapers",
+    "California—social life and customs"
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1986-11-15"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+  },
+  "schema:description": "Issue dated November 15, 1986. Metadata title and date were transcribed or established from the scanned issue; source filenames are preserved."
+}
