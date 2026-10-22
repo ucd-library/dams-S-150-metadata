@@ -14,7 +14,7 @@
     "schema:ImageObject",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:name": "This Month on the River, no. 22 (mid-September to mid-October 1984)",
+  "schema:name": "This Month on the River, no. 22",
   "schema:identifier": [
     "S-150",
     "ark:/87293/d3s17t396"
