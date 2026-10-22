@@ -55,5 +55,5 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-EDU/1.0/"
   },
-  "schema:temporalCoverage": "1984-09/1984-10",
+  "schema:temporalCoverage": "1984-09/1984-10"
 }
