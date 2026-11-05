@@ -13,14 +13,14 @@
     "schema:Collection",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "schema:name": "LGBTQ Serials (placeholder title)",
+  "schema:name": "LGBTQIA+ Serial Collection",
   "schema:identifier": [
     "S-150",
     "ark:/87293/d3c53fc01"
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#date",
-    "@value": "2026-10-23"
+    "@value": "2026-11-05"
   },
   "ucdlib:hasLabel": {
     "@id": "@base:/labels"
@@ -104,5 +104,6 @@
     {
       "@id": "http://id.worldcat.org/fast/1423814"
     }
-  ]
+  ],
+  "schema:description": "This collection contains a selection of titles from the [LGBTQIA+ History and Culture Collection](https://library.ucdavis.edu/archives-and-special-collections/our-collections/book-pamphlet-collections/gay-and-lesbian-history-and-culture-collection/)\n\nDigitization of these titles was supported by a California State Library LGBTQ+ History Grant.\n\nThe library catalog records for these titles are:\n\n- [*Ah Men : Shop for Men*](https://search.library.ucdavis.edu/permalink/01UCD_INST/1mhgd8s/alma990020850190403126)\n- [*Davis Voice*](https://search.library.ucdavis.edu/permalink/01UCD_INST/11htace/alma990031536860403126)\n- [*Magpie*](https://search.library.ucdavis.edu/permalink/01UCD_INST/11htace/alma990021180590403126)\n- [*Magpie of California*](https://search.library.ucdavis.edu/permalink/01UCD_INST/11htace/alma990031739520403126)\n- [*Male Express*](https://search.library.ucdavis.edu/permalink/01UCD_INST/11htace/alma990020744740403126) *(San Francisco and Los Angeles editions)*\n- [*Male Express*](https://search.library.ucdavis.edu/permalink/01UCD_INST/11htace/alma990037731190403126) *(Northern California and Southern California editions)*\n- [*Out Loud*](https://search.library.ucdavis.edu/permalink/01UCD_INST/11htace/alma990025346820403126)\n- [*This Month on the River*](https://search.library.ucdavis.edu/permalink/01UCD_INST/11htace/alma990020753410403126)\n\nIssues of the title, *Mom Guess What*, are available [here.](https://digital.ucdavis.edu/collection/ark:/87293/d3bc3t533)"
 }
